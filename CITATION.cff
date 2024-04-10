@@ -1,13 +1,26 @@
+This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this Mars Tropical Ice modeling R code, please cite it as below."
+title: Mars Tropical Ice Model Software
+message: >-
+  This code is for a MDAP research grant in collaboration
+  with the Southwest Research Institute. It was used to
+  investigate the spatial and temporal distribution of
+  tropical ice on Mars.
+type: software
 authors:
-  - family-names: Riggs
-    given-names: Jamie
-    orcid: https://orcid.org/0000-0002-8220-9363
-title: "Mars Tropical Ice Model Software"
-version: 1.0.0
+  - given-names: Jamie
+    family-names: Riggs
+    email: jamie.riggs@northwestern.edu
+    orcid: 'https://orcid.org/0000-0002-8220-9363'
 identifiers:
-  - type: doi
-    value: 10.5281/zenodo.1234
-date-released: 2024-04-10
-https://github.com/jamieriggs/Mars-Topical-Ice-Model/blob/main/
+  - type: url
+    value: >-
+      https://github.com/jamieriggs/Mars-Topical-Ice-Model/blob/main/
+    description: Github repository for Mars tropical ice model R code.
+repository-code: >-
+  https://github.com/jamieriggs/Mars-Topical-Ice-Model/blob/main/
+abstract: Paper submitted to Earth and Space Science journal.
+version: 1.0.0
+date-released: '2024-04-10'
