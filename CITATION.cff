@@ -2,9 +2,9 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Mars Tropical Ice Model Software
+title: Mars Tropical Ice Model Software and Data
 message: >-
-  This code is for a MDAP research grant in collaboration
+  This code and data are for a MDAP research grant in collaboration
   with the Southwest Research Institute. It was used to
   investigate the spatial and temporal distribution of
   tropical ice on Mars.
