@@ -15,10 +15,6 @@ authors:
     email: jamie.riggs@northwestern.edu
     orcid: 'https://orcid.org/0000-0002-8220-9363'
 identifiers:
-  - type: url
-    value: >-
-      https://github.com/jamieriggs/Mars-Topical-Ice-Model/blob/main/
-    description: Github repository for Mars tropical ice model R code.
   - type: doi
     value: 10.5281/zenodo.10957009
 repository-code: >-
